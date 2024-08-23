@@ -1,0 +1,6 @@
+
+api_key: "7653a179c23f40aaa14d3cc71589dc11"
+base_url: "https://api.aimlapi.com"
+modelEmbeddings: "sentence-transformers/all-MiniLM-L6-v2"
+autoTokenizer: "meta-llama/Meta-Llama-3-8B-Instruct-Turbo"
+autoModelForCausalLM: "meta-llama/Meta-Llama-3-8B-Instruct-Turbo"
