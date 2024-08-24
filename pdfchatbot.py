@@ -86,7 +86,7 @@ class PdfChatbot:
         return answer
 
 # Configuración de la ruta al archivo config.yaml
-config_path = "C:\\Users\\AIO\\Desktop\\PDF CHATBOT\\PDF_RAG_LLAMA3_STREAMLIT\\src\\config.yaml"
+config_path = "config.yaml"
 
 # Crear instancia de PdfChatbot con la ruta de configuración
 chatbot = PdfChatbot(config_path)
